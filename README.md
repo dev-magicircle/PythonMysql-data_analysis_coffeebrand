@@ -1,4 +1,5 @@
 # Python_data-analysis-coffee-brand
+# 2020-1학기 데이터베이스 2차 과제
 https://ecstatic-kirch-54a9b8.netlify.app/index.html
 ### 사용한 공공데이터
 소상공인시장진흥공단_상가(상권)정보_서울
